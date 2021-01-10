@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/swagger2471/pkg/example/client"
+	"github.com/goswagger-2471/pkg/example/client"
 )
 
 func main() {

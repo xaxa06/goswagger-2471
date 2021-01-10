@@ -1,4 +1,4 @@
-all: clean
+build: clean
 	swagger generate client --target pkg/example --name example --spec swagger.yaml
 	mkdir -p bin
 	go build -o bin/bug

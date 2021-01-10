@@ -5,7 +5,7 @@ Deps:
 - tested with go 1.15.6 (Linux/Debian)
 
 ```sh
->make all
+>make
 
 [...]
 go build -o bin/bug
